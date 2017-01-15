@@ -1,2 +1,3 @@
 # DithrBugs
-Issue tracking for the Dithr app
+
+Issue tracking for the [Dithr](https://dithr.io/) app
